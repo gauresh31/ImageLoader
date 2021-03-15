@@ -1,0 +1,3 @@
+include ':bitmapconverter'
+include ':app'
+rootProject.name = "ImageLoader"
